@@ -33,7 +33,7 @@ Subscription Services: Subscription services can provide data for analysis.
 Environmental Sensors: Data collected by environmental sensors can be used for analysis. 
 
 ### Tools Used
-- Ms Excel for Data Cleaning [download here](http://wwww.microsoft.com)
+- Ms Excel for Data Cleaning [download here](http://www.microsoft.com)
     - Data collection for analysis
     - Data Cleaning
         - Data Manipulation

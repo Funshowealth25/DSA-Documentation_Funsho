@@ -41,7 +41,7 @@ Environmental Sensors: Data collected by environmental sensors can be used for a
         - Data Cleaning
           
 - SQL Server (For Query and Analysis)
-- Power BI (for Creating report) https://www.microsoft.com/en-us/download/details.aspx?id=58494
+- Power BI [download here](https://www.microsoft.com)
 - Ms Power Point (For Presentation)
 
 Other Sources: RSS feeds, social media, or web scraping tools can provide unstructured or semi-structured data. 

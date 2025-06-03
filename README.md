@@ -12,6 +12,7 @@ A project overview provides a concise, one-page summary of a project, outlining 
 
 Data sources for analysis can be broadly categorized into internal and external sources. Internal sources include data generated within an organization, such as databases, CRM systems, and IoT devices. External sources include public datasets, APIs, government agencies, social media, and research publications. 
 
+
 #### Internal Data Sources:
 Databases: Relational databases (SQL) and NoSQL databases store structured data for analysis. 
 CRM Systems: Customer Relationship Management systems hold information about customers and their interactions. 
@@ -40,7 +41,38 @@ Environmental Sensors: Data collected by environmental sensors can be used for a
         - Data Cleaning
           
 - SQL Server (For Query and Analysis)
-- Power BI (for Creating report)
+- Power BI (for Creating report) https://www.microsoft.com/en-us/download/details.aspx?id=58494
 - Ms Power Point (For Presentation)
 
 Other Sources: RSS feeds, social media, or web scraping tools can provide unstructured or semi-structured data. 
+
+
+### Exploratory Data Analysis 
+(EDA) is a statistical approach used to understand the characteristics of a dataset, identify patterns, and formulate hypotheses for further analysis. It involves summarizing data, visualizing relationships, and looking for anomalies before applying more formal modeling techniques. 
+
+- Summarizing data:
+EDA helps to understand the basic statistics of a dataset, such as the mean, median, standard deviation, and range of values. 
+- Visualizing data:
+Graphs and charts are used to explore the relationships between different variables, identify outliers, and spot trends. 
+- Identifying patterns:
+EDA can reveal hidden patterns, relationships, and unexpected features within the data. 
+- Generating hypotheses:
+The insights gained from EDA can lead to the formulation of hypotheses for further investigation. 
+Checking assumptions:
+EDA can help determine if the data meets the assumptions required for certain statistical techniques. 
+Why EDA is important:
+- Data quality:
+EDA helps identify potential errors, inconsistencies, and missing values in the dataset. 
+Understanding data characteristics:
+EDA provides a better understanding of the data's distribution, range, and relationships between variables. 
+- Choosing appropriate methods:
+EDA helps determine the most appropriate statistical techniques or machine learning algorithms for analysis. 
+Developing hypotheses:
+The insights from EDA can be used to formulate testable hypotheses. 
+- Improving communication:
+Visualizations and summary statistics from EDA can be used to communicate findings to stakeholders in a clear and concise manner. 
+### Tools and techniques used in EDA: 
+Statistical measures: Mean, median, standard deviation, quartiles, etc.
+Data visualization: Histograms, scatter plots, box plots, bar charts, etc.
+Correlation analysis: Identifying relationships between variables.
+Data cleaning and preprocessing: Dealing with missing values, outliers, and data type inconsistencies. 

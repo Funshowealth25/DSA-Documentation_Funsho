@@ -76,3 +76,8 @@ Statistical measures: Mean, median, standard deviation, quartiles, etc.
 Data visualization: Histograms, scatter plots, box plots, bar charts, etc.
 Correlation analysis: Identifying relationships between variables.
 Data cleaning and preprocessing: Dealing with missing values, outliers, and data type inconsistencies. 
+
+``` SQL
+SELECT A,B,C
+WHERE A> 15
+```

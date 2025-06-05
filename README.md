@@ -81,3 +81,6 @@ Data cleaning and preprocessing: Dealing with missing values, outliers, and data
 SELECT A,B,C
 WHERE A> 15
 ```
+### MY GRAPHICS DESIGN
+![face of a boy](https://github.com/user-attachments/assets/d5d45c40-0bf5-4f10-a27e-f007853fb211)
+
